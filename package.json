@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend da Semana Omnistack #9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atmonello/omnistack-9-backend.git"
+  },
+  "keywords": [],
+  "author": "André Monello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atmonello/omnistack-9-backend/issues"
+  },
+  "homepage": "https://github.com/atmonello/omnistack-9-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
