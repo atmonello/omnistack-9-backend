@@ -94,3 +94,6 @@ public/
 
 # DynamoDB Local files
 .dynamodb/
+
+# MongoDB Local files
+uploads/
